@@ -1,6 +1,6 @@
 # GitHub CLI
 
-test
+test 2
 
 `gh` is GitHub on the command line, and it's now available in beta. It brings pull requests, issues, and other GitHub concepts to
 the terminal next to where you are already working with `git` and your code.
